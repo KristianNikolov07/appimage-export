@@ -9,10 +9,10 @@ This is a Godot 4 export plugin for exporting a game as a Linux AppImage.
 ## How to use
 1. Make sure the plugin is installed and enabled
 
-![addon](images/addon.png)
+![addon](Images/addon.png)
 
 2. Create a linux preset and fill the AppImage information
 
-![settings](images/settings.png)
+![settings](Images/settings.png)
 
 3. Export
